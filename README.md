@@ -26,4 +26,5 @@ The Superstore Sales Dashboard is a comprehensive tool designed to provide in-de
 
 *Caption: Sales for 15-Days Forecast.*
 
-## LinkedIn:- https://www.linkedin.com/feed/update/urn:li:ugcPost:7108342186559111168/
+## LinkedIn 
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7108342186559111168/
