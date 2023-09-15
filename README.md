@@ -6,7 +6,7 @@ This repository contains the code and resources for a Superstore Sales Dashboard
 
 ## Introduction
 
-The Superstore Sales Dashboard is a comprehensive tool designed to provide in-depth analysis of sales data from a superstore over the course of two years. It employs PowerBI to generate dynamic visualizations and uses forecasting techniques to predict sales for the next 15 days.
+The Superstore Sales Dashboard is a comprehensive tool designed to provide in-depth analysis of sales data from a superstore two years. It employs PowerBI to generate dynamic visualizations and uses forecasting techniques to predict sales for the next 15 days.
 
 ## Features
 
